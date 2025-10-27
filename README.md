@@ -28,5 +28,5 @@ Tenho me dedicado intensamente a aprender os **fundamentos da programação**, *
 
 ### 📲 Vamos nos conectar?
 
-[![LinkedIn](https://www.linkedin.com/in/luanakrhistina-dev/)
+[![LinkedIn] (https://www.linkedin.com/in/luanakrhistina-dev/)
 
